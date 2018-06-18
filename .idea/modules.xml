@@ -3,13 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-consumer/spring-cloud-consul-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-consumer/spring-cloud-consul-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-provider/spring-cloud-consul-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-provider/spring-cloud-consul-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-provider_1/spring-cloud-consul-provider_1.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-provider_1/spring-cloud-consul-provider_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-consumer/spring-cloud-eureka-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-consumer/spring-cloud-eureka-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider/spring-cloud-eureka-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider/spring-cloud-eureka-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider_1/spring-cloud-eureka-provider_1.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider_1/spring-cloud-eureka-provider_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider_2/spring-cloud-eureka-provider_2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider_2/spring-cloud-eureka-provider_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-consumer/spring-cloud-feign-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-consumer/spring-cloud-feign-consumer.iml" />
     </modules>
   </component>
 </project>

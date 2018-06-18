@@ -5,11 +5,10 @@
       <list>
         <option value="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka-provider_1/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-consul-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-consul-provider_1/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-consul-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-provider_1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-provider_2/pom.xml" />
       </list>
     </option>
   </component>
