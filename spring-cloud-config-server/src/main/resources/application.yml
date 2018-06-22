@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      label:
+      server:
+        git:
+          uri:
+          search-paths:
+server:
+  port: 9092
