@@ -5,5 +5,22 @@ eureka:
 spring:
   application:
     name: eureka-provider
+  cloud:
+    config:
+      label: master
+      profile: dev
+      discovery:
+        enabled: true
+        service-id: config-server
+  rabbitmq:
+      host: 192.168.1.252
+      port: 5672
+      username: admin
+      password: boce123456
 server:
   port: 8081
+
+# 关闭刷新安全认证
+management:
+  security:
+    enabled: false
